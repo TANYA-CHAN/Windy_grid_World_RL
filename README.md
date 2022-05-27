@@ -12,8 +12,6 @@ The first two times use SARSA and Q-learning respectively to solve this problem.
 The last two times also use SARSA and Q-learning respectively to solve the probelm. the agent is allowed to make the previous four moves as well as Agent's Moves (NE, SE, SW, NE). The wind values are stochastic, sometimes varying by 1 from the mean values given for each column.
 
 
-<img src="Figure_12.png">
-
 ## Example
 
 SARSA and Q-learning performance experiment:
